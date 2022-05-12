@@ -1,4 +1,4 @@
----
+GitHubdocs
 title: About GitHub Education for educators and researchers
 intro: '{% data variables.product.prodname_education %} offers a variety of tools to help educators and researchers work more effectively inside and outside of the classroom.'
 redirect_from:
